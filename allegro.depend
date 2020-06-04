@@ -1,0 +1,1204 @@
+# depslib dependency file v1.0
+1466791507 source:c:\users\mayara\desktop\projeto_prog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"menu.h"
+	"recordes.h"
+	"personagem.h"
+	"labirinto.h"
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1372640328 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alplatf.h
+
+1368980708 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1368980708 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1368980708 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1368980708 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1368980708 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1368980708 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alunix.h
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\color.h
+	"allegro5/base.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\path.h
+	"allegro5/base.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1372639084 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\blender.h
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\config.h
+	"allegro5/file.h"
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\error.h
+	"allegro5/base.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1368980708 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\fullscreen_mode.h
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\keycodes.h
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\memory.h
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\monitor.h
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\timer.h
+	"allegro5/base.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\alcompat.h
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_image.h
+
+1372639132 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1362338300 c:\codeblocks\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1466756246 c:\users\mayara\desktop\projeto_prog\menu.h
+
+1466786160 c:\users\mayara\desktop\projeto_prog\recordes.h
+
+1466756246 source:c:\users\mayara\desktop\projeto_prog\menu.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recordes.h"
+
+1466786160 source:c:\users\mayara\desktop\projeto_prog\recordes.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recordes.h"
+
+1466738063 source:c:\users\matheus\desktop\projeto_prog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"menu.h"
+	"recordes.h"
+	"personagem.h"
+	"labirinto.h"
+
+1466173600 c:\users\matheus\desktop\projeto_prog\menu.h
+
+1466173602 c:\users\matheus\desktop\projeto_prog\recordes.h
+
+1466739148 source:c:\users\matheus\desktop\projeto_prog\menu.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recordes.h"
+
+1466738487 source:c:\users\matheus\desktop\projeto_prog\recordes.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recordes.h"
+
+1466784643 source:c:\users\mayara\desktop\projeto_prog\personagem.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"personagem.h"
+
+1466791507 c:\users\mayara\desktop\projeto_prog\personagem.h
+	"celula.h"
+
+1466735436 c:\users\matheus\desktop\projeto_prog\personagem.h
+	"celula.h"
+
+1466735553 source:c:\users\matheus\desktop\projeto_prog\personagem.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"personagem.h"
+
+1466719917 source:c:\users\matheus\desktop\projeto_prog\celula.c
+	<stdlib.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"celula.h"
+	"parede.h"
+
+1466186734 c:\users\matheus\desktop\projeto_prog\celula.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"parede.h"
+
+1466719910 c:\users\matheus\desktop\projeto_prog\parede.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1466739871 source:c:\users\matheus\desktop\projeto_prog\labirinto.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+	<time.h>
+	"celula.h"
+	"parede.h"
+	"stack.h"
+
+1466097970 c:\users\matheus\desktop\projeto_prog\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"celula.h"
+
+1466737623 c:\users\matheus\desktop\projeto_prog\labirinto.h
+	"celula.h"
+	"parede.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1466533234 source:c:\users\matheus\desktop\projeto_prog\parede.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+	<stdio.h>
+	"celula.h"
+	"parede.h"
+
+1466100058 source:c:\users\matheus\desktop\projeto_prog\stack.c
+	"celula.h"
+	"stack.h"
+	<stdlib.h>
+
+1466756244 source:c:\users\mayara\desktop\projeto_prog\celula.c
+	<stdlib.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"celula.h"
+	"parede.h"
+
+1466756244 c:\users\mayara\desktop\projeto_prog\celula.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"parede.h"
+
+1466756246 c:\users\mayara\desktop\projeto_prog\parede.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1466789281 source:c:\users\mayara\desktop\projeto_prog\labirinto.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+	<time.h>
+	"celula.h"
+	"parede.h"
+	"stack.h"
+
+1466756248 c:\users\mayara\desktop\projeto_prog\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"celula.h"
+
+1466756244 c:\users\mayara\desktop\projeto_prog\labirinto.h
+	"celula.h"
+	"parede.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1466756246 source:c:\users\mayara\desktop\projeto_prog\parede.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+	<stdio.h>
+	"celula.h"
+	"parede.h"
+
+1466756246 source:c:\users\mayara\desktop\projeto_prog\stack.c
+	"celula.h"
+	"stack.h"
+	<stdlib.h>
+
+1466756244 source:c:\users\mayara\desktop\projeto_prog_comtorao\celula.c
+	<stdlib.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"celula.h"
+	"parede.h"
+
+1466756244 c:\users\mayara\desktop\projeto_prog_comtorao\celula.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"parede.h"
+
+1466756246 c:\users\mayara\desktop\projeto_prog_comtorao\parede.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1466792351 source:c:\users\mayara\desktop\projeto_prog_comtorao\labirinto.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+	<time.h>
+	"celula.h"
+	"parede.h"
+	"stack.h"
+
+1466756248 c:\users\mayara\desktop\projeto_prog_comtorao\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"celula.h"
+
+1466756246 source:c:\users\mayara\desktop\projeto_prog_comtorao\menu.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recordes.h"
+
+1466756246 c:\users\mayara\desktop\projeto_prog_comtorao\menu.h
+
+1466786160 c:\users\mayara\desktop\projeto_prog_comtorao\recordes.h
+
+1466756246 source:c:\users\mayara\desktop\projeto_prog_comtorao\parede.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+	<stdio.h>
+	"celula.h"
+	"parede.h"
+
+1466792381 source:c:\users\mayara\desktop\projeto_prog_comtorao\personagem.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"personagem.h"
+
+1466792547 c:\users\mayara\desktop\projeto_prog_comtorao\personagem.h
+	"celula.h"
+
+1466786160 source:c:\users\mayara\desktop\projeto_prog_comtorao\recordes.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recordes.h"
+
+1466756246 source:c:\users\mayara\desktop\projeto_prog_comtorao\stack.c
+	"celula.h"
+	"stack.h"
+	<stdlib.h>
+
+1466792588 source:c:\users\mayara\desktop\projeto_prog_comtorao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"menu.h"
+	"recordes.h"
+	"personagem.h"
+	"labirinto.h"
+
+1466756244 c:\users\mayara\desktop\projeto_prog_comtorao\labirinto.h
+	"celula.h"
+	"parede.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1466799856 source:c:\users\matheus\desktop\projeto_prog_comtorao\celula.c
+	<stdlib.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"celula.h"
+	"parede.h"
+
+1466799856 c:\users\matheus\desktop\projeto_prog_comtorao\celula.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"parede.h"
+
+1466799860 c:\users\matheus\desktop\projeto_prog_comtorao\parede.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1466817241 source:c:\users\matheus\desktop\projeto_prog_comtorao\labirinto.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+	<time.h>
+	"celula.h"
+	"parede.h"
+	"stack.h"
+
+1466799862 c:\users\matheus\desktop\projeto_prog_comtorao\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"celula.h"
+
+1466817688 source:c:\users\matheus\desktop\projeto_prog_comtorao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"menu.h"
+	"recordes.h"
+	"personagem.h"
+	"labirinto.h"
+
+1466799860 c:\users\matheus\desktop\projeto_prog_comtorao\menu.h
+
+1466799860 c:\users\matheus\desktop\projeto_prog_comtorao\recordes.h
+
+1466815814 c:\users\matheus\desktop\projeto_prog_comtorao\personagem.h
+	"celula.h"
+
+1466817254 c:\users\matheus\desktop\projeto_prog_comtorao\labirinto.h
+	"celula.h"
+	"parede.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1466799860 source:c:\users\matheus\desktop\projeto_prog_comtorao\menu.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recordes.h"
+
+1466799860 source:c:\users\matheus\desktop\projeto_prog_comtorao\parede.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+	<stdio.h>
+	"celula.h"
+	"parede.h"
+
+1466799860 source:c:\users\matheus\desktop\projeto_prog_comtorao\recordes.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recordes.h"
+
+1466799862 source:c:\users\matheus\desktop\projeto_prog_comtorao\stack.c
+	"celula.h"
+	"stack.h"
+	<stdlib.h>
+
+1466815814 source:c:\users\matheus\desktop\projeto_prog_comtorao\personagem.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"personagem.h"
+
+1466799856 source:c:\users\matheus\desktop\projeto_prog_avancado\celula.c
+	<stdlib.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"celula.h"
+	"parede.h"
+
+1466799856 c:\users\matheus\desktop\projeto_prog_avancado\celula.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"parede.h"
+
+1466799860 c:\users\matheus\desktop\projeto_prog_avancado\parede.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1466817241 source:c:\users\matheus\desktop\projeto_prog_avancado\labirinto.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+	<time.h>
+	"celula.h"
+	"parede.h"
+	"stack.h"
+
+1466799862 c:\users\matheus\desktop\projeto_prog_avancado\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"celula.h"
+
+1467081424 source:c:\users\matheus\desktop\projeto_prog_avancado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"menu.h"
+	"recordes.h"
+	"personagem.h"
+	"labirinto.h"
+
+1467081433 c:\users\matheus\desktop\projeto_prog_avancado\menu.h
+
+1466799860 c:\users\matheus\desktop\projeto_prog_avancado\recordes.h
+
+1466815814 c:\users\matheus\desktop\projeto_prog_avancado\personagem.h
+	"celula.h"
+
+1466817254 c:\users\matheus\desktop\projeto_prog_avancado\labirinto.h
+	"celula.h"
+	"parede.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1467076263 source:c:\users\matheus\desktop\projeto_prog_avancado\menu.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recordes.h"
+
+1466799860 source:c:\users\matheus\desktop\projeto_prog_avancado\parede.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+	<stdio.h>
+	"celula.h"
+	"parede.h"
+
+1466815814 source:c:\users\matheus\desktop\projeto_prog_avancado\personagem.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"personagem.h"
+
+1466799860 source:c:\users\matheus\desktop\projeto_prog_avancado\recordes.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recordes.h"
+
+1466799862 source:c:\users\matheus\desktop\projeto_prog_avancado\stack.c
+	"celula.h"
+	"stack.h"
+	<stdlib.h>
+
+1466799856 source:c:\users\matheus\desktop\projeto_prog_muito_bom\celula.c
+	<stdlib.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"celula.h"
+	"parede.h"
+
+1466799856 c:\users\matheus\desktop\projeto_prog_muito_bom\celula.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"parede.h"
+
+1466799860 c:\users\matheus\desktop\projeto_prog_muito_bom\parede.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1466817241 source:c:\users\matheus\desktop\projeto_prog_muito_bom\labirinto.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+	<time.h>
+	"celula.h"
+	"parede.h"
+	"stack.h"
+
+1466799862 c:\users\matheus\desktop\projeto_prog_muito_bom\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"celula.h"
+
+1467238448 source:c:\users\matheus\desktop\projeto_prog_muito_bom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"menu.h"
+	"recordes.h"
+	"personagem.h"
+	"labirinto.h"
+
+1467081433 c:\users\matheus\desktop\projeto_prog_muito_bom\menu.h
+
+1466799860 c:\users\matheus\desktop\projeto_prog_muito_bom\recordes.h
+
+1466815814 c:\users\matheus\desktop\projeto_prog_muito_bom\personagem.h
+	"celula.h"
+
+1466817254 c:\users\matheus\desktop\projeto_prog_muito_bom\labirinto.h
+	"celula.h"
+	"parede.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1467236376 source:c:\users\matheus\desktop\projeto_prog_muito_bom\menu.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recordes.h"
+
+1466799860 source:c:\users\matheus\desktop\projeto_prog_muito_bom\parede.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+	<stdio.h>
+	"celula.h"
+	"parede.h"
+
+1466815814 source:c:\users\matheus\desktop\projeto_prog_muito_bom\personagem.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"personagem.h"
+
+1466799860 source:c:\users\matheus\desktop\projeto_prog_muito_bom\recordes.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recordes.h"
+
+1466799862 source:c:\users\matheus\desktop\projeto_prog_muito_bom\stack.c
+	"celula.h"
+	"stack.h"
+	<stdlib.h>
+
+1466799856 source:c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\celula.c
+	<stdlib.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"celula.h"
+	"parede.h"
+
+1466799856 c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\celula.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"parede.h"
+
+1466799860 c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\parede.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1466817241 source:c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\labirinto.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+	<time.h>
+	"celula.h"
+	"parede.h"
+	"stack.h"
+
+1466799862 c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"celula.h"
+
+1467238448 source:c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"menu.h"
+	"recordes.h"
+	"personagem.h"
+	"labirinto.h"
+
+1467081433 c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\menu.h
+
+1466799860 c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\recordes.h
+
+1466815814 c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\personagem.h
+	"celula.h"
+
+1466817254 c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\labirinto.h
+	"celula.h"
+	"parede.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1467236376 source:c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\menu.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recordes.h"
+
+1466799860 source:c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\parede.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+	<stdio.h>
+	"celula.h"
+	"parede.h"
+
+1466815814 source:c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\personagem.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"personagem.h"
+
+1466799860 source:c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\recordes.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recordes.h"
+
+1466799862 source:c:\users\matheus\desktop\eng.eletronica(periodo01)\projeto_prog_muito_bom\stack.c
+	"celula.h"
+	"stack.h"
+	<stdlib.h>
+
+1466799856 source:d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\celula.c
+	<stdlib.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"celula.h"
+	"parede.h"
+
+1466799856 d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\celula.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"parede.h"
+
+1466799860 d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\parede.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1466817241 source:d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\labirinto.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+	<time.h>
+	"celula.h"
+	"parede.h"
+	"stack.h"
+
+1466799862 d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"celula.h"
+
+1467238448 source:d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"menu.h"
+	"recordes.h"
+	"personagem.h"
+	"labirinto.h"
+
+1467081433 d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\menu.h
+
+1466799860 d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\recordes.h
+
+1466815814 d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\personagem.h
+	"celula.h"
+
+1466817254 d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\labirinto.h
+	"celula.h"
+	"parede.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1467236376 source:d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\menu.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recordes.h"
+
+1466799860 source:d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\parede.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+	<stdio.h>
+	"celula.h"
+	"parede.h"
+
+1466815814 source:d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\personagem.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"personagem.h"
+
+1466799860 source:d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\recordes.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recordes.h"
+
+1466799862 source:d:\engenharia eletronica - utfpr\eng.eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\stack.c
+	"celula.h"
+	"stack.h"
+	<stdlib.h>
+
+1466799856 source:d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\celula.c
+	<stdlib.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"celula.h"
+	"parede.h"
+
+1466799856 d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\celula.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	"parede.h"
+
+1466799860 d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\parede.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1466817241 source:d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\labirinto.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdlib.h>
+	<time.h>
+	"celula.h"
+	"parede.h"
+	"stack.h"
+
+1466799862 d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\stack.h
+	<stdio.h>
+	<stdlib.h>
+	"celula.h"
+
+1467238448 source:d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"menu.h"
+	"recordes.h"
+	"personagem.h"
+	"labirinto.h"
+
+1467081433 d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\menu.h
+
+1466799860 d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\recordes.h
+
+1466815814 d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\personagem.h
+	"celula.h"
+
+1466817254 d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\labirinto.h
+	"celula.h"
+	"parede.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+
+1467236376 source:d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\menu.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recordes.h"
+
+1466799860 source:d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\parede.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdlib.h>
+	<stdio.h>
+	"celula.h"
+	"parede.h"
+
+1466815814 source:d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\personagem.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	"personagem.h"
+
+1466799860 source:d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\recordes.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"recordes.h"
+
+1466799862 source:d:\engenharia - utfpr\eng. eletronica - 1º periodo\prog 1\projeto_prog_muito_bom\stack.c
+	"celula.h"
+	"stack.h"
+	<stdlib.h>
+
